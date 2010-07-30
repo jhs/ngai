@@ -4,6 +4,10 @@
 
 Ngai provides a terse, Git or Subversion-like interface to do the most common CouchDB tasks.
 
+[Linking][link]
+
+  [link]: blah
+
 ## Pronunciation
 
 Ngai is pronounced in one syllable. The "ng" is a digraph. In English,
